@@ -21,7 +21,7 @@ Hello, welcome to my GitHub profile. I'm Matheus Luiz, a student of Systems Deve
 <h2 align="center">Contact</h2>
 
 - Email: luizteixeiradeus321@gmail.com 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/matheus-luiz-5063a2237/
 
 ##
 
