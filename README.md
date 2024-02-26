@@ -11,8 +11,8 @@ Hello, welcome to my GitHub profile. I'm Matheus Luiz, a student of Systems Deve
   <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" height="50" width="60">
   <img alt="Html" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" align="center" height="50" width="60">
   <img alt="Css" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" align="center" height="50" width="60">
-  <img alt="Javascript" src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg" align="center" height="50" width="60">
-  <img alt="Css" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" align="center" height="50" width="60">
+  <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" align="center" height="50" width="60">
+  <img alt="Nodejs" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" align="center" height="50" width="60">
 </div>
   
 ### Code Editor
