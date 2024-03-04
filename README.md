@@ -9,7 +9,7 @@ Hello, welcome to my GitHub profile. I'm Matheus Luiz, a student of Systems Deve
 <div>
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" height="50" width="60">
   <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" height="50" width="60">
-  <img alt="Html" src="https://static-00.iconduck.com/assets.00/html5-icon-2018x2048-st7q7lm6.png" align="center" height="50" width="60">
+  <img alt="Html" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" align="center" height="50" width="60">
   <img alt="Css" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" align="center" height="50" width="60">
   <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" align="center" height="50" width="60">
   <img alt="Nodejs" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" align="center" height="50" width="60">
