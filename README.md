@@ -1,32 +1,40 @@
-<h1 align="center">Hello, I'm Matheus Luiz T d Silva 🌊</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=header"/>
 
-Hello, welcome to my GitHub profile. I'm Matheus Luiz, a student of Systems Development at the Porto Digital Technical School in Recife. I'm always trying to improve my codes, studying and learning more everyday!
+<h2 align="center">Busco evoluir cada vez mais.</h2> <br><br> <p align="center"> No momento, estou estudando TI e <strong>procurando melhorar cada vez mais</strong>. Atualmente, estou no meu 2 ano na ETE Porto Digital.</p>&nbsp;
 
-<h2 align="center">Skills</h2>
+<div  align="center" style="margin-bottom:100px">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dgDavi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Luiz github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgDavi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
-### Technologies
 
-<div>
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" height="50" width="60">
-  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" height="50" width="60">
-  <img alt="Html" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" align="center" height="50" width="60">
-  <img alt="Css" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" align="center" height="50" width="60">
-  <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" align="center" height="50" width="60">
-  <img alt="Nodejs" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" align="center" height="50" width="60">
+
+## Minhas Habilidades
+
+#### Tenho mais domínio:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+#### Estudando no momento:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+#### Ferramentas de Trabalho:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Replit](https://img.shields.io/badge/Replit-E95420?style=for-the-badge&logo=replit&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Contatos:
+
+<div> 
+<a href = "mailto:contato.luizteixeiradeus321@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
-### Code Editor
-
-<img alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" align="center" height="50" width="60">
-
-
-<h2 align="center">Contact</h2>
-
-- Email: luizteixeiradeus321@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/matheus-luiz-5063a2237/
-
-##
-
-Thank you for visiting!
-
-[![Follow on GitHub](https://img.shields.io/github/followers/MatheusLuizTdSilva?label=Follow&style=social)](https://github.com/MatheusLuizTdSilva)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
