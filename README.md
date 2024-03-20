@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5F9EA0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=a23"/>
 
 <h2 align="center">Busco aprender mais!</h2> <br><br> <p align="center"> No momento, estou estudando DS e <strong>procurando melhorar cada vez mais</strong>. Atualmente, estou no meu 2 ano na ETE Porto Digital.</p>&nbsp;
 
@@ -37,4 +37,4 @@
 <div> 
 <a href = "mailto:contato.luizteixeiradeus321@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F9EA0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=a23"/>
