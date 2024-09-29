@@ -3,7 +3,7 @@
 <h2 align="center">Buscando Aprendizado Contínuo!</h2> 
 <br><br> 
 <p align="center"> 
-  Atualmente, estou no segundo ano do curso de Desenvolvimento de Sistemas na ETE Porto Digital e <strong>procurando aprimorar minhas habilidades a cada dia</strong>.
+  Atualmente, estou no segundo ano do curso de Desenvolvimento de Sistemas na ETE Porto Digital e <strong>buscando aprimorar minhas habilidades a cada dia</strong>. Sou apaixonado por tecnologia e sempre em busca de novos desafios.
 </p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
@@ -20,6 +20,8 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ### 📚 Estudando no Momento:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
@@ -31,10 +33,10 @@
 &nbsp;
 
 ## Boas Qualidades
-- **Ótimo em Design**: Sempre busco criar interfaces funcionais e atraentes.
-- **Habilidade em Socializar**: Fácil interação com diferentes pessoas e criação de redes de contatos.
+- **Ótimo em Design**: Crio interfaces funcionais e atraentes que melhoram a experiência do usuário.
+- **Habilidade em Socializar**: Facilito interações com pessoas, criando redes de contatos valiosas.
 - **Trabalho em Equipe**: Colaboro efetivamente em projetos, contribuindo para um ambiente de aprendizado e crescimento.
-- **Participativo e Proativo**: Sempre engajado em atividades e pronto para ajudar os outros em equipe.
+- **Participativo e Proativo**: Sempre engajado em atividades e pronto para ajudar os outros em equipe, buscando resultados positivos.
 
 &nbsp;
 &nbsp;
