@@ -3,7 +3,7 @@
 <h2 align="center">Buscando Aprendizado Contínuo!</h2> 
 <br><br> 
 <p align="center"> 
-  Atualmente, estou no segundo ano do curso de Desenvolvimento de Sistemas na ETE Porto Digital e <strong>buscando aprimorar minhas habilidades a cada dia</strong>. Sou apaixonado por tecnologia e sempre em busca de novos desafios.
+  Atualmente, estou no Terceiro ano do Ensino Medio Técnico com curso de Desenvolvimento de Sistemas na ETE Porto Digital e <strong>buscando aprimorar minhas habilidades a cada dia</strong>. Sou apaixonado por tecnologia e sempre em busca de novos desafios.
 </p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
