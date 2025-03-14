@@ -61,4 +61,10 @@
   </a>
 </div>
 
+<div> 
+  <a href="https://www.instagram.com/mathssl__/"> 
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=a23"/>
